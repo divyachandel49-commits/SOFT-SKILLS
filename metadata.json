@@ -1,0 +1,8 @@
+{
+  "name": "Soft Skills for English Lab",
+  "description": "An interactive client-side learning suite and simulator designed for English Communication Labs, specializing in public speaking, active listening, professional writing, body language, and team dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
